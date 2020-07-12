@@ -1,2 +1,2 @@
-# homework_01
+# homework_02
 Первое домашние задание (GoIT)
