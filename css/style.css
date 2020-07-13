@@ -72,6 +72,7 @@ li {
 /* герой */
 .hero > .title {
 	color: var(--text-white-color);
+	background-color: var(--secondary-text-color);
 
 	font-weight: 900;
 	font-size: 44px;
@@ -106,6 +107,7 @@ li {
 }
 .work .sub-title {
 	color: var(--text-white-color);
+	background-color: var(--secondary-text-color);
 
 	text-transform: uppercase;
 }
